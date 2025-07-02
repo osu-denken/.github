@@ -3,3 +3,4 @@
 - [大学ページ](https://www.osaka-sandai.ac.jp/club_circle/club/233)
 - [Twitter](https://x.com/osu_denken)
 
+- [入部フォーム](https://forms.gle/GxCxo72AkMDPt3756) (大産大生のみアクセス可能)
