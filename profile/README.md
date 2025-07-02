@@ -1,3 +1,5 @@
+このOrganizaionに参加できる部員の方は部室、LINE、Discord、Xのいずれかでご連絡ください。
+
 # リンク
 - [ウェブサイト](https://osu-denken.github.io/)
 - [大学ページ](https://www.osaka-sandai.ac.jp/club_circle/club/233)
