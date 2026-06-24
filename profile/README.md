@@ -19,4 +19,4 @@
 
 - [入部フォーム](https://forms.gle/GxCxo72AkMDPt3756) (大産大生限定)
 
-電子計算研究部/電研/Denken/Electronic Computing Research Division/ECRD/Processing of Information Club/PIC/情報処理部/osu-denken/大阪産業大学/OSU/Osaka Sangyo University
+ゲーム開発部/Game Creator Club/電子計算研究部/電研/Denken/Electronic Computing Research Division/ECRD/Processing of Information Club/PIC/情報処理部/osu-denken/大阪産業大学/OSU/Osaka Sangyo University
